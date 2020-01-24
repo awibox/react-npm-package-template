@@ -1,4 +1,7 @@
+$fontSize: 14px;
+$color: #000;
+
 .text {
-  color: black;
-  font-size: 14px;
+  color: $color;
+  font-size: $fontSize;
 }

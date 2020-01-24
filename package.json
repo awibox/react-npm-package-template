@@ -1,7 +1,7 @@
 {
   "name": "react-npm-package-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "The template that will help you quickly start developing your NPM package for React",
   "main": "./dist/index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -15,10 +15,16 @@
     "url": "https://github.com/awibox/react-npm-package-template.git"
   },
   "keywords": [
-    "timeline",
-
     "react-component",
-    "npm-package"
+    "npm-package",
+    "template",
+    "css-modules",
+    "jest",
+    "eslint",
+    "travis-ci",
+    "coveralls",
+    "webpack",
+    "scss"
   ],
   "author": "awibox",
   "license": "MIT",
@@ -58,7 +64,10 @@
     "react-dom": "^16.12.0"
   },
   "jest": {
-    "collectCoverageFrom": ["src/**/*.{js,jsx,mjs}", "!src/index.js"],
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx,mjs}",
+      "!src/index.js"
+    ],
     "testEnvironment": "node",
     "moduleFileExtensions": [
       "js",

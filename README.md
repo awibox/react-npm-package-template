@@ -72,11 +72,11 @@ npm login
 
 <a name="travis"></a>
 ## Travis CI
-For **Travis CI** to work you need to register on the [site](https://travis-ci.org/) and connect the repository.
+You need to register on the [Travis CI](https://travis-ci.org/) and connect the repository.
 
 <a name="coveralls"></a>
 ## Coveralls
-For **Coveralls** to work you need to register on the [site](https://coveralls.io/) and connect the repository.
+You need to register on the [Coveralls](https://coveralls.io/) and connect the repository.
 
 <a name="badges"></a>
 ## Badges in the README.md

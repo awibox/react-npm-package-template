@@ -8,7 +8,8 @@
     "lint": "eslint --report-unused-disable-directives src",
     "fix": "eslint --fix --report-unused-disable-directives src",
     "test": "jest",
-    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls"
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
+    "setup": "cp ./.github/hooks/pre-commit ./.git/hooks/pre-commit && chmod +x ./.git/hooks/pre-commit"
   },
   "repository": {
     "type": "git",

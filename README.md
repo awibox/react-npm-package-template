@@ -25,6 +25,8 @@
 * [Travis CI](#travis)
 * [Coveralls](#coveralls)
 * [Badges in the readme](#badges)
+* [Community profile](#community)
+* [Contributing](#contributing)
 
 <a name="howtoinstall"></a>
 ## How to install
@@ -81,3 +83,11 @@ You need to register on the [Coveralls](https://coveralls.io/) and connect the r
 <a name="badges"></a>
 ## Badges in the README.md
 For **badges** to work you need to change the repository name in the link and image paths.
+
+<a name="community"></a>
+## Community profile
+Don't forget to edit files such as [CONTRIBUTING.md](/.github/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/.github/CODE_OF_CONDUCT.md).
+
+<a name="contributing"></a>
+## Contributing
+Please read through our [CONTRIBUTING.md](/.github/CONTRIBUTING.md).

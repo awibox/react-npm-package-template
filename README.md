@@ -4,16 +4,16 @@
     <a href="https://www.npmjs.com/package/react-npm-package-template">
         <img src="https://img.shields.io/npm/v/react-npm-package-template" alt="npm version">
     </a>
-    <a href="https://travis-ci.org/awibox/react-npm-package-template">
-        <img src='https://travis-ci.org/awibox/react-npm-package-template.svg?branch=master' alt='Build' />
+    <a href="https://travis-ci.org/frontend-templates/react-npm-package-template">
+        <img src='https://travis-ci.org/frontend-templates/react-npm-package-template.svg?branch=master' alt='Build' />
     </a>
-    <a href='https://coveralls.io/github/awibox/react-npm-package-template?branch=master'>
-        <img src='https://coveralls.io/repos/github/awibox/react-npm-package-template/badge.svg?branch=master' alt='Coverage Status' />
+    <a href='https://coveralls.io/github/frontend-templates/react-npm-package-template?branch=master'>
+        <img src='https://coveralls.io/repos/github/frontend-templates/react-npm-package-template/badge.svg?branch=master' alt='Coverage Status' />
     </a>
     <a href="https://www.npmjs.com/package/react-npm-package-template">
         <img src="https://img.shields.io/npm/dm/react-npm-package-template" alt="Downloads">
     </a>
-    <img src="https://img.shields.io/github/license/awibox/react-npm-package-template" alt="license">
+    <img src="https://img.shields.io/github/license/frontend-templates/react-npm-package-template" alt="license">
 </p>
 
 ## Table of contents
@@ -35,7 +35,7 @@ To do this, you need press button "**Use this template**".
 
 Or clone repository and go to the project folder.
 ```bash
-git clone https://github.com/awibox/react-redux-app-boilerplate.git ProjectName
+git clone https://github.com/frontend-templates/react-redux-app-boilerplate.git ProjectName
 cd ProjectName
 ```
 Then you should install required dependencies.

@@ -55,6 +55,8 @@
     "jest-enzyme": "^7.1.2",
     "mini-css-extract-plugin": "^0.9.0",
     "node-sass": "^4.13.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
     "sass-loader": "^8.0.2",
     "webpack": "^4.41.4",
     "webpack-cli": "^3.3.10"

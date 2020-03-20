@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontend-templates/react-npm-package-template.git"
+    "url": "https://github.com/awibox/react-npm-package-template.git"
   },
   "keywords": [
     "react-component",
@@ -30,9 +30,9 @@
   "author": "awibox",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/frontend-templates/react-npm-package-template/issues"
+    "url": "https://github.com/awibox/react-npm-package-template/issues"
   },
-  "homepage": "https://github.com/frontend-templates/react-npm-package-template#readme",
+  "homepage": "https://github.com/awibox/react-npm-package-template#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",

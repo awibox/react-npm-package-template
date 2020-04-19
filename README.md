@@ -1,20 +1,17 @@
+<div align="center">
+
 ![react-npm-package-template](https://repository-images.githubusercontent.com/236028186/e0034e00-3ee4-11ea-8676-b3f80c86678a)
 
-<p align="center">
-    <a href="https://www.npmjs.com/package/react-npm-package-template">
-        <img src="https://img.shields.io/npm/v/react-npm-package-template" alt="npm version">
-    </a>
-    <a href="https://travis-ci.org/awibox/react-npm-package-template">
-        <img src='https://travis-ci.org/awibox/react-npm-package-template.svg?branch=master' alt='Build' />
-    </a>
-    <a href='https://coveralls.io/github/awibox/react-npm-package-template?branch=master'>
-        <img src='https://coveralls.io/repos/github/awibox/react-npm-package-template/badge.svg?branch=master' alt='Coverage Status' />
-    </a>
-    <a href="https://www.npmjs.com/package/react-npm-package-template">
-        <img src="https://img.shields.io/npm/dm/react-npm-package-template" alt="Downloads">
-    </a>
-    <img src="https://img.shields.io/github/license/awibox/react-npm-package-template" alt="license">
-</p>
+[![npm package](https://img.shields.io/npm/v/react-npm-package-template)](https://www.npmjs.com/package/react-npm-package-template)
+[![Build Status](https://travis-ci.org/awibox/react-npm-package-template.svg?branch=master)](https://travis-ci.org/awibox/react-npm-package-template)
+[![Coverage Status](https://coveralls.io/repos/github/awibox/react-npm-package-template/badge.svg?branch=master)](https://coveralls.io/github/awibox/react-npm-package-template?branch=master)
+[![npm downloads](https://img.shields.io/npm/dm/react-npm-package-template)](https://www.npmjs.com/package/react-npm-package-template)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=awibox/react-npm-package-template)](https://dependabot.com)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/awibox/react-npm-package-template/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/awibox/react-npm-package-template/pulls)
+[![Tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
+
+</div>
 
 ## Table of contents
 * [How to install](#howtoinstall)
